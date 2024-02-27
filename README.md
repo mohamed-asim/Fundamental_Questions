@@ -1,3 +1,8 @@
+## Things i Learnt
+
+We should use "===" to check id for toggling the functions instead of using usestate to toggle as we are passing id to the inside components.
+Go through this concept again to get hold of it again, as passing to interal components was bit confusing.
+
 ## Figma URL
 
 [Accordion](https://www.figma.com/file/TAwJ3kWOqkw0o8UVtAMOHO/Accordion?node-id=0%3A1&t=1YEti8xBykw69tBH-1)
